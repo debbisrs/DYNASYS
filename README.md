@@ -11,3 +11,7 @@ extract the "dynasys_0.1.tar.gz" in the home directory
 and then
 
 python dynasys.py
+
+System Requirement:
+------------------------------------------------------
+Python, python-numpy, matplotlib, Tkinter, pydelay
